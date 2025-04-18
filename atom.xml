@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Welcome to my blog</title>
+  
+  
+  <link href="https://www.blogsynemc.cn/atom.xml" rel="self"/>
+  
+  <link href="https://www.blogsynemc.cn/"/>
+  <updated>2025-04-18T13:07:57.623Z</updated>
+  <id>https://www.blogsynemc.cn/</id>
+  
+  <author>
+    <name>syneMC</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.blogsynemc.cn/2025/04/17/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%BC%94%E7%A4%BA/"/>
+    <id>https://www.blogsynemc.cn/2025/04/17/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%BC%94%E7%A4%BA/</id>
+    <published>2025-04-17T02:14:04.152Z</published>
+    <updated>2025-04-18T13:07:57.623Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="工业机器人演示视频"><a href="#工业机器人演示视频" class="headerlink" title="工业机器人演示视频"></a>工业机器人演示视频</h1><h2 id="1-ABB简单卡点"><a href="#1-ABB简单卡点" class="headerlink" title="1.ABB简单卡点"></a>1.ABB简单卡点</h2><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114243663830821&bvid=BV1d7ZFYCExb&cid=29124724590&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;工业机器人演示视频&quot;&gt;&lt;a href=&quot;#工业机器人演示视频&quot; class=&quot;headerlink&quot; title=&quot;工业机器人演示视频&quot;&gt;&lt;/a&gt;工业机器人演示视频&lt;/h1&gt;&lt;h2 id=&quot;1-ABB简单卡点&quot;&gt;&lt;a href=&quot;#1-ABB简单卡点&quot; class</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.blogsynemc.cn/2025/04/17/visual%20componets%E6%BC%94%E7%A4%BA/"/>
+    <id>https://www.blogsynemc.cn/2025/04/17/visual%20componets%E6%BC%94%E7%A4%BA/</id>
+    <published>2025-04-17T01:31:48.895Z</published>
+    <updated>2025-04-18T13:07:55.304Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="visual-componets-工作站演示"><a href="#visual-componets-工作站演示" class="headerlink" title="visual componets 工作站演示"></a>visual componets 工作站演示</h1><h2 id="1-人工搬运，机器人加工，AGV运输"><a href="#1-人工搬运，机器人加工，AGV运输" class="headerlink" title="1.人工搬运，机器人加工，AGV运输"></a>1.人工搬运，机器人加工，AGV运输</h2><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114350853461709&bvid=BV13H5azbE7Y&cid=29457383428&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;visual-componets-工作站演示&quot;&gt;&lt;a href=&quot;#visual-componets-工作站演示&quot; class=&quot;headerlink&quot; title=&quot;visual componets 工作站演示&quot;&gt;&lt;/a&gt;visual componets 工作站</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.blogsynemc.cn/2025/04/16/hello-world/"/>
+    <id>https://www.blogsynemc.cn/2025/04/16/hello-world/</id>
+    <published>2025-04-16T01:58:21.306Z</published>
+    <updated>2025-04-18T13:07:57.090Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2025-4-16"><a href="#2025-4-16" class="headerlink" title="2025&#x2F;4&#x2F;16"></a>2025&#x2F;4&#x2F;16</h1><p>Hi everyone 我今天搭建了我的第一个个人博客，我会在这里留下我的成长路径，让我们一起加油ヽ(￣ω￣(￣ω￣〃)ゝ</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;2025-4-16&quot;&gt;&lt;a href=&quot;#2025-4-16&quot; class=&quot;headerlink&quot; title=&quot;2025&amp;#x2F;4&amp;#x2F;16&quot;&gt;&lt;/a&gt;2025&amp;#x2F;4&amp;#x2F;16&lt;/h1&gt;&lt;p&gt;Hi everyone 我今天搭建了我的第一</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
