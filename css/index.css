@@ -4548,7 +4548,7 @@ figure.highlight pre .javascript .function {
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
-    background-repeat: no-repeat !important;
+    background-repeat: no-repeat !important s;
   }
 }
 .container .btn-center {
