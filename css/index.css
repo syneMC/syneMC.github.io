@@ -4528,29 +4528,6 @@ figure.highlight pre .javascript .function {
     display: none;
   }
 }
-[data-theme="dark"] #web_bg {
-  background: https://images3.alphacoders.com/133/thumb-1920-1333794.jpeg;
-  background-attachment: local;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-@media screen and (max-width: 800px) {
-  #web_bg {
-    background: https://images5.alphacoders.com/109/thumbbig-1090635.webp !important;
-    background-attachment: local !important;
-    background-position: center !important;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
-  }
-  [data-theme="dark"] #web_bg {
-    background: https://images8.alphacoders.com/556/thumbbig-556719.webp !important;
-    background-attachment: local !important;
-    background-position: center !important;
-    background-size: cover !important;
-    background-repeat: no-repeat !important s;
-  }
-}
 .container .btn-center {
   margin: 0 0 20px;
   text-align: center;
