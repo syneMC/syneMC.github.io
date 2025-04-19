@@ -197,7 +197,7 @@
     if (window.DISQUS) disqusReset(disqus_config)
     else {
       const script = document.createElement('script')
-      script.src = 'https://.disqus.com/embed.js'
+      script.src = 'https://https-www-blogsynemc-cn.disqus.com/embed.js'
       script.setAttribute('data-timestamp', +new Date())
       document.head.appendChild(script)
     }
@@ -211,7 +211,7 @@
       if (!eleGroup) return
       const cleanedLinks = eleGroup.href.replace(/#post-comment$/, '')
 
-      const res = await fetch(`https://disqus.com/api/3.0/threads/set.json?forum=&api_key=JU2G2Z8rtN1bcw99hoi2E3C33o4ImxOs5dc3X54liYwVeDuzxoHpQBeBSdEFgRXd&thread:link=${cleanedLinks}`,{
+      const res = await fetch(`https://disqus.com/api/3.0/threads/set.json?forum=https-www-blogsynemc-cn&api_key=7TWyqqE5wOM4WmZQn2EY4jcNPjDdSfIUM3BvojlPyvLpv0fhmBJjWFIf67hCLVcy&thread:link=${cleanedLinks}`,{
         method: 'GET'
       })
       const result = await res.json()
