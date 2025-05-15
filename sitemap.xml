@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.blogsynemc.cn/Gallery/Taizhou/index.html</loc>
+    
+    <lastmod>2025-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blogsynemc.cn/Gallery/Yangzhou/index.html</loc>
+    
+    <lastmod>2025-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blogsynemc.cn/Gallery/index.html</loc>
+    
+    <lastmod>2025-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blogsynemc.cn/Gallery/Dongsheng/index.html</loc>
+    
+    <lastmod>2025-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blogsynemc.cn/2025/05/15/%E5%86%85%E8%92%99%E5%8F%A4%E5%A5%87%E7%91%9E%E9%9B%B6%E4%BB%B6%E8%A3%85%E9%85%8D/</loc>
+    
+    <lastmod>2025-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.blogsynemc.cn/artitalk/index.html</loc>
     
     <lastmod>2025-05-13</lastmod>
@@ -92,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://www.blogsynemc.cn/Gallery/index.html</loc>
-    
-    <lastmod>2025-05-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.blogsynemc.cn/about/index.html</loc>
     
     <lastmod>2025-05-04</lastmod>
@@ -113,15 +149,6 @@
     <loc>https://www.blogsynemc.cn/movies/index.html</loc>
     
     <lastmod>2025-05-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blogsynemc.cn/Gallery/Taizhou/index.html</loc>
-    
-    <lastmod>2025-05-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -184,36 +211,43 @@
 
   <url>
     <loc>https://www.blogsynemc.cn/</loc>
-    <lastmod>2025-05-14</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.blogsynemc.cn/tags/Him%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
-    <lastmod>2025-05-14</lastmod>
+    <loc>https://www.blogsynemc.cn/tags/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%94%E2%80%94Abb/</loc>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.blogsynemc.cn/tags/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%94%E2%80%94Abb/</loc>
-    <lastmod>2025-05-14</lastmod>
+    <loc>https://www.blogsynemc.cn/tags/Him%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.blogsynemc.cn/tags/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%94%E2%80%94Yaskawa/</loc>
-    <lastmod>2025-05-14</lastmod>
+    <lastmod>2025-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blogsynemc.cn/tags/%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.blogsynemc.cn/tags/%E5%8D%8F%E4%BD%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%94%E2%80%94Jaka/</loc>
-    <lastmod>2025-05-14</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -221,22 +255,29 @@
 
   
   <url>
-    <loc>https://www.blogsynemc.cn/categories/Him%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
-    <lastmod>2025-05-14</lastmod>
+    <loc>https://www.blogsynemc.cn/categories/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.blogsynemc.cn/categories/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    <lastmod>2025-05-14</lastmod>
+    <loc>https://www.blogsynemc.cn/categories/Him%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
+    <lastmod>2025-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.blogsynemc.cn/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.blogsynemc.cn/categories/%E5%8D%8F%E4%BD%9C%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    <lastmod>2025-05-14</lastmod>
+    <lastmod>2025-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
