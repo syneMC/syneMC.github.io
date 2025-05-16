@@ -218,6 +218,13 @@
 
   
   <url>
+    <loc>https://www.blogsynemc.cn/tags/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%94%E2%80%94Abb/</loc>
+    <lastmod>2025-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.blogsynemc.cn/tags/Him%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
     <lastmod>2025-05-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -226,13 +233,6 @@
   
   <url>
     <loc>https://www.blogsynemc.cn/tags/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%94%E2%80%94Yaskawa/</loc>
-    <lastmod>2025-05-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.blogsynemc.cn/tags/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%94%E2%80%94Abb/</loc>
     <lastmod>2025-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -255,14 +255,14 @@
 
   
   <url>
-    <loc>https://www.blogsynemc.cn/categories/Him%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
+    <loc>https://www.blogsynemc.cn/categories/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
     <lastmod>2025-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.blogsynemc.cn/categories/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <loc>https://www.blogsynemc.cn/categories/Him%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
     <lastmod>2025-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
