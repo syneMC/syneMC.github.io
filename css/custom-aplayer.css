@@ -1,0 +1,15 @@
+.aplayer {
+  color: #4c4948;
+}
+.container .aplayer {
+  margin: 0 0 20px;
+}
+.container .aplayer ol,
+.container .aplayer ul {
+  margin: 0;
+  padding: 0;
+}
+.container .aplayer li {
+  margin: 0;
+  padding: 0 15px;
+}
